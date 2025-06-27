@@ -1,16 +1,14 @@
 <!-- GitHub Profile README for Nathaniel J. Clement (demostheneslld) -->
-
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/8669241?v=4" width="120" height="120" alt="Nathaniel J. Clement avatar" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Nathaniel J. Clement</h1>
+
 <p align="center">
   <b>Software Engineer & Architect</b><br>
   Full-stack developer and application architect specialized in building scaled SaaS platforms.
 </p>
-
-_"The Measure of a Man is not who he is, nor is it who he ought to be. It is the percentage of who he ought to be that he is."_
 
 <p align="center">
   <a href="https://njclement.com">Website</a> •
@@ -22,8 +20,6 @@ _"The Measure of a Man is not who he is, nor is it who he ought to be. It is the
   <a href="https://bsky.app/profile/njclement.com">Bluesky</a>
 </p>
 
-## 💡 Fun Facts
-
-- I once traveled from Cairo to Cape Town on a shoestring budget—safari in Kenya, climbed Kilimanjaro, and swam with great white sharks in South Africa.
-- Survived a rare liver disease thanks to modern medicine, faith, and the support of my wife and community.
-- I believe life is best lived in pursuit of interesting experiences and meaningful challenges.
+<p align="center">
+  <i>The Measure of a Man is not who he is, nor is it who he ought to be. It is the percentage of who he ought to be that he is.</i>
+</p>
