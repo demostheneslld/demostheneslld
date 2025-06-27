@@ -1,8 +1,4 @@
 <!-- GitHub Profile README for Nathaniel J. Clement (demostheneslld) -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/8669241?v=4" width="120" height="120" alt="Nathaniel J. Clement avatar" style="border-radius:50%;" />
-</p>
-
 <h1 align="center">Nathaniel J. Clement</h1>
 
 <p align="center">
