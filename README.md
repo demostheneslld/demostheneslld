@@ -10,6 +10,8 @@
   Full-stack developer and application architect specialized in building scaled SaaS platforms.
 </p>
 
+> "The Measure of a Man is not who he is, nor is it who he ought to be. It is the percentage of who he ought to be that he is."
+
 <p align="center">
   <a href="https://njclement.com">Website</a> •
   <a href="https://github.com/demostheneslld">GitHub</a> •
@@ -27,9 +29,3 @@
 - I once traveled from Cairo to Cape Town on a shoestring budget—safari in Kenya, climbed Kilimanjaro, and swam with great white sharks in South Africa.
 - Survived a rare liver disease thanks to modern medicine, faith, and the support of my wife and community.
 - I believe life is best lived in pursuit of interesting experiences and meaningful challenges.
-
----
-
-## 📝 Motto
-
-> "The Measure of a Man is not who he is, nor is it who he ought to be. It is the percentage of who he ought to be that he is."
