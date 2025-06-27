@@ -10,7 +10,7 @@
   Full-stack developer and application architect specialized in building scaled SaaS platforms.
 </p>
 
-> "The Measure of a Man is not who he is, nor is it who he ought to be. It is the percentage of who he ought to be that he is."
+_"The Measure of a Man is not who he is, nor is it who he ought to be. It is the percentage of who he ought to be that he is."_
 
 <p align="center">
   <a href="https://njclement.com">Website</a> •
@@ -21,8 +21,6 @@
   <a href="https://twitter.com/NathanJClement">Twitter</a> •
   <a href="https://bsky.app/profile/njclement.com">Bluesky</a>
 </p>
-
----
 
 ## 💡 Fun Facts
 
